@@ -355,5 +355,3 @@ Also, that the number of rated games played is more than the number of non-rated
 It can also be summarized that the number of rated games are more than non rated games when filtered by almost any parameter. When compared the Black ratings, White Ratings, Number of opening moves, we saw that the rated games are much larger than the non rated games. And, thus, it would not be wrong to conclude that the players prefer playing rated games than non rated games irrespective of their ratings or any other game mode/factor.
 
 The final R dashboard shall have all these graphs along with more graphs and plots to make detailed analysis and comparisons among various variables in the dataset. It shall also have an interactive graph.
-<!-- ## R Markdown -->
-<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
