@@ -1,5 +1,5 @@
 ---
-title: "Proposed Analytics Report"
+title: "Analytics Report"
 author: "Rishi Garg"
 date: "2022-10-24"
 output: pdf_document
